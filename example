@@ -1,0 +1,3 @@
+1111_0000_0000_0000 ;start.
+0001_1010_1011_0001 ;add 10 and 11 in variable called 1.
+0000_0000_0000_0001 ;stop and return variable 1, which will be 21, variable 0 is default for return 0(nothing).
